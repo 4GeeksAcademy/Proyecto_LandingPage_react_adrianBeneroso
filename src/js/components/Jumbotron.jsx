@@ -4,7 +4,7 @@ import "../../styles/card.css";
     return(
 
         // <!-- ESTO ES EL CUERPO -->
-  <div className="card-jum p-3">
+  <div className="card-jum p-3 bg-light">
   <h1>A Warm Welcome</h1>
   <div className="card-body">
     
